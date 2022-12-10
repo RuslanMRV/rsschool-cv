@@ -10,6 +10,14 @@
 I have knowledge of HTML, CSS and basic JavaScript (Basic). I
 I can learn quickly, and I'm very responsible approach to everything. I like to learn something new.
 
+ ### Skills
+ * HTML
+ * CSS
+ * JavaScript (Basic)
+ * Git
+ * Figma
+ * VSCode
+ 
  ### Code Example
 ```
  function multiply(a, b){
